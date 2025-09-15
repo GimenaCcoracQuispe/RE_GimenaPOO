@@ -38,7 +38,7 @@
 	 - Al iniciar la app, se cargan automáticamente.
 	 - No se pierden los datos al cerrar la aplicación.
 
-## Requisitos
+## Cambios
 
 - Java 8+
 - Las imágenes de iconos deben estar en la carpeta `imagen/` dentro del proyecto:
@@ -46,6 +46,7 @@
 	- `crear.png` (icono agregar)
 	- `editar.png` (icono editar)
 	- `eliminar.png` (icono eliminar)
+<img width="681" height="389" alt="Captura de pantalla 2025-09-15 105646" src="https://github.com/user-attachments/assets/85d7bfe6-071c-4e4f-af09-3d6b0813e431" />
 
 ## Subir a GitHub
 
