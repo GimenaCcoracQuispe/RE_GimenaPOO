@@ -46,14 +46,9 @@
 	- `crear.png` (icono agregar)
 	- `editar.png` (icono editar)
 	- `eliminar.png` (icono eliminar)
+ 
+ <img width="933" height="541" alt="Captura de pantalla 2025-09-15 105812" src="https://github.com/user-attachments/assets/6016caa2-bc8a-40fe-9af8-3b474ad46a1d" />
+
 <img width="681" height="389" alt="Captura de pantalla 2025-09-15 105646" src="https://github.com/user-attachments/assets/85d7bfe6-071c-4e4f-af09-3d6b0813e431" />
 
-## Subir a GitHub
 
-1. Realiza commit de todos los cambios.
-2. Sube el proyecto a tu repositorio en GitHub.
-3. Incluye este README.md actualizado.
-
----
-
-¡Proyecto listo para presentación y uso institucional!
